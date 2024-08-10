@@ -32,7 +32,7 @@
    .btr{
     position: absolute;
     bottom: 10px;
-    right: 40px;
+    right: 20px;
     opacity: 1;
     transition: .5s; 
 
@@ -40,7 +40,7 @@
    .ofset{
     position: absolute;
     bottom: 10px;
-    left: 8%;
+    left: 20px;
     opacity: 1;
 }
 }
